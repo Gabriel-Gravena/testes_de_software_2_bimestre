@@ -1,4 +1,4 @@
-# Testes de Software — Avaliação Prática Prova 02
+# Testes de Software — Trabalhos 2 Bimestre
 
 Soluções das atividades práticas, organizadas por semana. Material de referência: [JoaoChoma/teste_software_2026](https://github.com/JoaoChoma/teste_software_2026/tree/main/aulas).
 
@@ -9,3 +9,10 @@ Soluções das atividades práticas, organizadas por semana. Material de referê
 | [`semana14/`](semana14/) | Teste de usuário final para o problema proposto |
 
 Cada pasta tem um `README.md` próprio com a explicação do exercício, a resolução e como executar.
+
+
+Alunos:
+-- 
+Gabriel Cesar Gravena - 24159150-2
+
+Guilherme Bandeira Rodrigues - 24132618-2
